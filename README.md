@@ -32,6 +32,14 @@ GET: "http://localhost:9595/api/file-download-from-directory/mdtalalwasim_photo.
 
 ![db](https://github.com/mdtalalwasim/springboot-file-project-upload-file-directly-in-directory-folder/assets/91146041/2deaf1ab-9e63-4e62-897b-7b87a3394690)
 
+
+# Project Explorer: (uploads) folder
+
+![project-explorer](https://github.com/mdtalalwasim/springboot-file-project-upload-file-directly-in-directory-folder/assets/91146041/5d7d6bbd-6e51-4f72-bea9-40f48270ce72)
+
+
+
+
 # Thank you! 
 
 
